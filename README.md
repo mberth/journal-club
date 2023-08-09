@@ -1,2 +1,2 @@
 # journal-club
-Material for teh ML journal club
+Material for the ML journal club
